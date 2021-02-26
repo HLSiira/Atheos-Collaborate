@@ -1,5 +1,9 @@
-[ { "author" : "Codiad",
-    "version": "1.0",
-    "name" : "Codiad Collaborative",
-    "url" : "https://github.com/Codiad/Codiad-Collaborative"
-  } ]
+{
+	"author": ["HLSiira", "Codiad"],
+	"name": "Collaborate",
+	"description": "Allows users to collaboratively code",
+	"category": "Development",
+	"status": "available",
+	"url": "https://github.com/HLSiira/Atheos-Collaborate",
+	"version": "0.0.1"
+}

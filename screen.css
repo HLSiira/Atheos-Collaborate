@@ -1,15 +1,15 @@
-.collaborative-selection-wrapper {
+.collaborate {
     position: fixed;
     z-index: 1;
 }
 
-.collaborative-selection {
+.collaborate .selection {
     width: 2px;
     background-color: red;
     height: 12pt;
 }
 
-.collaborative-selection-tooltip {
+.collaborate .tooltip {
     display: none;
     position: relative;
     top: -24pt;
